@@ -4,3 +4,4 @@
 2. exe是单独可执行文件
 
 **感谢您的浏览**
+![效果展示](./xghMusicPlayer/display.png)
