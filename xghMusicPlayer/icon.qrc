@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/fullscreen.png</file>
+        <file>icon/mute.png</file>
+        <file>icon/next.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/play.png</file>
+        <file>icon/playlist.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/quitfullscreen.png</file>
+        <file>icon/search.png</file>
+        <file>icon/volume.png</file>
+        <file>icon/repeat.png</file>
+        <file>icon/music.png</file>
+        <file>icon/random.png</file>
+        <file>icon/repeat_old.png</file>
+        <file>icon/repeat-one.png</file>
+        <file>icon/volume_s_mute.png</file>
+        <file>icon/volume_s.png</file>
+    </qresource>
+</RCC>

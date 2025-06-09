@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background_image/asuka.jpg</file>
+        <file>background_image/Ayanami.jpg</file>
+        <file>background_image/spring.jpg</file>
+        <file>background_image/sea.jpg</file>
+    </qresource>
+</RCC>
